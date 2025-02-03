@@ -169,3 +169,12 @@ deploy, integrate, or use the Solana blockchain protocol code directly
 (e.g., as a node operator), and individuals that transact on the Solana
 blockchain through light clients, third party interfaces, and/or wallet
 software.
+{
+    "chainId": 101,
+    "address": "JAakfDtd3EtdtRmoHyox3zzHM2yWa8s71F54Nmagmoon",
+    "symbol": "17Q",
+    "name": "ATeamQ17",
+    "decimals": 9,
+    "logoURI": "https://i.postimg.cc/5N5PyQ6X/IMG-2821.jpg"
+}
+“Added ATeamQ17 Token”
